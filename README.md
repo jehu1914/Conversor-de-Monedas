@@ -34,7 +34,7 @@
 
 2. **Compile e execute**  
    ```bash
-   cd conversor-de_monedas
+   cd Conversor-de-Monedas
    javac -cp .:lib/gson-2.13.1.jar src/*.java -d bin/
    java -cp bin:lib/gson-2.13.1.jar Main
    ```
