@@ -1,6 +1,6 @@
-# 💰 Conversor de Moedas Jehu1914  
+# [💰 Conversor de Moedas Jehu1914](https://github.com/jehu1914/Conversor-de-Monedas)  
 
-**Um conversor de moedas poderoso e fácil de usar, com cotações em tempo real!**  
+**Um conversor de monedas poderoso e fácil de usar, com cotações em tempo real!**  
 
 🌎 **Converte entre Dólar, Euro, Real, Peso Argentino e mais**  
 ⚡ **Usa API atualizada para resultados precisos**  
