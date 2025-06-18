@@ -29,7 +29,7 @@
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/jehu1914/conversor-de_monedas.git
+   git clone https://github.com/jehu1914/Conversor-de-Monedas.git
    ```
 
 2. **Compile e execute**  
